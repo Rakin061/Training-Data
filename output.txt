@@ -22,3 +22,8 @@ total 12
 drwxr-xr-x 4 root root 4096 Aug 14 09:25 Training-Data
 drwxr-xr-x 3 root root 4096 Aug 14 09:24 hotpot
 drwxr-xr-x 1 root root 4096 Aug 10 19:19 sample_data
+total 36
+-rw-r--r-- 1 root root  1717 Aug 14 09:25 output.txt
+-rw-r--r-- 1 root root 13026 Aug 14 09:24 HotpotQA.ipynb
+-rw-r--r-- 1 root root 11357 Aug 14 09:24 LICENSE
+-rw-r--r-- 1 root root    15 Aug 14 09:24 README.md
