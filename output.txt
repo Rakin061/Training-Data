@@ -27,3 +27,27 @@ total 36
 -rw-r--r-- 1 root root 13026 Aug 14 09:24 HotpotQA.ipynb
 -rw-r--r-- 1 root root 11357 Aug 14 09:24 LICENSE
 -rw-r--r-- 1 root root    15 Aug 14 09:24 README.md
+Mon Aug 14 10:38:02 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |
+| N/A   46C    P8     9W /  70W |      0MiB / 15360MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+total 12
+drwxr-xr-x 3 root root 4096 Aug 14 10:37 hotpot
+drwxr-xr-x 3 root root 4096 Aug 14 10:37 Training-Data
+drwxr-xr-x 1 root root 4096 Aug 10 19:19 sample_data
