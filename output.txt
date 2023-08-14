@@ -33,3 +33,28 @@ total 100
 -rw-r--r-- 1 root root 10225 Aug 14 08:11 model.py
 -rw-r--r-- 1 root root 13516 Aug 14 08:11 prepro.py
 -rw-r--r-- 1 root root  6839 Aug 14 08:11 README.md
+Mon Aug 14 09:12:18 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.105.17   Driver Version: 525.105.17   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |
+| N/A   50C    P8    10W /  70W |      0MiB / 15360MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+total 36
+-rw-r--r-- 1 root root  3812 Aug 14 09:12 output.txt
+-rw-r--r-- 1 root root 13026 Aug 14 09:12 HotpotQA.ipynb
+-rw-r--r-- 1 root root 11357 Aug 14 09:12 LICENSE
+-rw-r--r-- 1 root root    15 Aug 14 09:12 README.md
